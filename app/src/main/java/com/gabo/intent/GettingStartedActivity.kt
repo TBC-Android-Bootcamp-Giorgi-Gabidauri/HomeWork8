@@ -2,24 +2,28 @@ package com.gabo.intent
 
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import android.util.Log.d
 import androidx.appcompat.app.AppCompatActivity
 import com.gabo.intent.databinding.ActivityGettingStartedBinding
 
 class GettingStartedActivity : AppCompatActivity() {
     private var binding: ActivityGettingStartedBinding? = null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         binding = ActivityGettingStartedBinding.inflate(layoutInflater)
         setContentView(binding?.root)
+
         d("tag", "Getting Started onCreate")
 
         binding?.btnGetStarted?.setOnClickListener {
             finish()
             startActivity(Intent(this, SignInActivity::class.java))
         }
-    } override fun onStart() {
+    }
+
+    override fun onStart() {
         super.onStart()
         d("tag", "Getting Started onStart")
     }
@@ -46,7 +50,7 @@ class GettingStartedActivity : AppCompatActivity() {
 
 
     override fun onDestroy() {
-        d("tag","Getting Started onDestroy")
+        d("tag", "Getting Started onDestroy")
         binding = null
         super.onDestroy()
     }

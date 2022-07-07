@@ -4,10 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/__light_walkthrough.xml" value="0.1505" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/bg_btn_continiue_with.xml" value="0.197" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/bg_btn_continue_with.xml" value="0.197" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/bg_btn_get_started.xml" value="0.197" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/bg_white_bottom.xml" value="0.197" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/btn_bg_continiue_with.xml" value="0.197" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/ic_apple.xml" value="0.165" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/ic_arrow_back.xml" value="0.231" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/ic_facebook.xml" value="0.197" />
         <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/ic_get_started.xml" value="0.1365" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/ic_google.xml" value="0.165" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
         <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/drawable/photo.xml" value="0.1365" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/layout/activity_getting_started.xml" value="0.23209459459459458" />
         <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/layout/activity_main2.xml" value="0.16714422158548234" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Intent/app/src/main/res/layout/activity_sign_in.xml" value="0.18" />
       </map>
     </option>
   </component>

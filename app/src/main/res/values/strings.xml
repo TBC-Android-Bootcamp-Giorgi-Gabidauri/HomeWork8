@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Intent</string>
+    <string name="hearMeText">Listen to the best\nmusic everyday\n with <font color="#089133">Hearme</font> now!</string>
+    <string name="get_started">get started</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="let_s_you_in">Let\'s you in</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account?  <font color="#089133">Sign up</font></string>
+    <string name="sign_in_with_password">Sign In with Password</string>
 </resources>

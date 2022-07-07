@@ -2,13 +2,12 @@ package com.gabo.intent
 
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import android.util.Log.d
 import androidx.appcompat.app.AppCompatActivity
 import com.gabo.intent.databinding.ActivitySignInBinding
 
 class SignInActivity : AppCompatActivity() {
-        private var binding: ActivitySignInBinding? = null
+    private var binding: ActivitySignInBinding? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivitySignInBinding.inflate(layoutInflater)
@@ -18,7 +17,7 @@ class SignInActivity : AppCompatActivity() {
 
         binding?.btnArrowBack?.setOnClickListener {
             finish()
-            startActivity(Intent(this,GettingStartedActivity::class.java))
+            startActivity(Intent(this, GettingStartedActivity::class.java))
         }
     }
 
